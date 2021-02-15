@@ -5,7 +5,7 @@
 เมื่อเป้าหมายเรียกใช้โปรแกรมนี้จะส่ง IP เป้าหมายประเทศเมืองและอื่น ๆ ผ่าน webhook discord
 
 ## Previews
-![](https://i.imgur.com/mBm1wyU.png)
+![](https://cdn.discordapp.com/attachments/809387331248324701/810891935601786900/unknown.png)
 
 ## วิธีใช้
 เปิดโปรแกรมนี้ผ่าน CMD, terminal หรือ Powershell
